@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate frontend developer from Mauritius</h3>
+<h3 align="center">coding for fun</h3>
 
 <p align="left"> <a href="https://twitter.com/pranavxdev" target="blank"><img src="https://img.shields.io/twitter/follow/pranavxdev?logo=twitter&style=for-the-badge" alt="pranavxdev" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **coding**
 
-- 💬 Ask me about **crypto, web3**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **https://twitter.com/pranavxdev**
 
-- ⚡ Fun fact **Turtles can breathe through their butts.**
+- ⚡ Fun fact **the sky is blue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
