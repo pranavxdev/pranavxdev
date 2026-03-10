@@ -4,9 +4,6 @@
 <p>I love computer science, building software, visual experiences and using linux.</p>
 <p>Currently learning full stack development.</p>
 
-## About Me
-
-
 ### 🧰 Language and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
