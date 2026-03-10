@@ -1,13 +1,14 @@
 # pranavxdev
 
 **`Student at University of Mauritius`**
-<p>Hello, </p>
+<p>I love computer science, building software and using linux.</p>
+<p>Currently learning full stack development and Cybersecurity.</p>
 
 ## About Me
 
 
 ### 🧰 Language and Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,js,ts,html,css,tailwindcss,react,nextjs,nodejs,php,mongodb,linux,git)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,html,css,java,cs,postgres,linux,git)
 
           
