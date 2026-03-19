@@ -1,7 +1,7 @@
 # pranavxdev
 
 **`Student at University of Mauritius`**
-<p>I love computer science, building software, and using linux.</p>
+<p>I love computer science, building software, networking and using linux.</p>
 <p>Currently learning full stack development and network programming.</p>
 
 ### 🧰 Language and Tools
